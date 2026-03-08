@@ -7,6 +7,8 @@ Imagine you are looking for a new mobile plan for your smartphone. Three major t
 3. **Ditto**: Offers a data allowance of 8 GB for ₱400 per month. This plan includes unlimited calls and texts to all networks within the country.
 
 Test your codes before the given client program.
+## UML Class Diagram
+![Image](https://github.com/eunicemabasa/Mabasa_VisitorPattern_LabSW3/blob/main/Mabasa_UML_LabSW3.png)
 
 ```java
 public class TelcoPromo {
@@ -31,5 +33,4 @@ public class TelcoPromo {
     }
 }    
 
-## UML Class Diagram
-![Image](https://github.com/eunicemabasa/Mabasa_VisitorPattern_LabSW3/blob/main/Mabasa_UML_LabSW3.png)
+
